@@ -23,10 +23,9 @@ Follow these steps to run the project locally
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/SahilWadhawan/SIH_INTERNAL_ROUND_1_ALPHA
-   cd REPO_DIRECTORY
-   ```
+   cd master
    npm install
    npm install -g http-server
    http-server
-
+  ```
    http://localhost:8080
