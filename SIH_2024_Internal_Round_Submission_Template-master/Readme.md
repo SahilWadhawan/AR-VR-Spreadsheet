@@ -23,5 +23,5 @@ This README provides an overview of the project, including team details, relevan
 - **Final SIH Presentation:** [https://github.com/user-attachments/files/16830215/SIH_PPT_ALPHA.pptx] (URL TO PPT UPLOADED TO GITHUB)
 - **Video Demonstration:** [https://youtu.be/w2IDgxC8v_0?si=6jy7Sy0XyH0vapqV] (UNLISTED YOUTUBE LINK)
 - **Source Code:** [https://github.com/SahilWadhawan/SIH_INTERNAL_ROUND_1_ALPHA] (GITHUB LINK TO THE REPO)
-- **Live Demo Link:** [https://sahilw16.itch.io/arvr-spreadsheet?secret=oF8AY61JM01lWvLT29jlgnhwTw] (Live Deployed Link)
+- **Live Demo Link:** [https://sahilw16.itch.io/arvr-spreadsheet] (Live Deployed Link)
 
